@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Payconiq</string>
+    <string name="no_users_found">No Users Found</string>
+    <string name="user_name">User Name:-</string>
+    <string name="company_name">Company Name:-</string>
+    <string name="blog">Blog:-</string>
+    <string name="location">Location:-</string>
+    <string name="twitter">Twitter:-</string>
+</resources>
